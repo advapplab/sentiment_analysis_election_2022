@@ -31,4 +31,5 @@ To improve the classification accuracy on ICI election dataset, we have a meetin
 ## Model Repositories
 
 2-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
+
 6-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
