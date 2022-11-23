@@ -10,8 +10,8 @@
     │   ├── eval                          # Weibo dataset for evaluation
     │   ├── test                          # Weibo dataset for testing
     │   ├── train                         # Weibo dataset for training
-    ├── weibo_wmmBERT.ipynb               # Finetuning process to build weibo_wmmBERT, within 6 classes and wmmBERT pretrain model
-    ├── weibo_wmmBERT_testing_6.ipynb     # Evaluate classification accuracy of ICI dataset by weibo_wmmBERT within 6 classes
+    ├── weibo_wmmBERT.ipynb               # Finetuning process to build weibo_wmmBERT (2/6) on wmmBERT pretrain model
+    ├── weibo_wmmBERT_testing_6.ipynb     # Evaluate classification accuracy of ICI dataset by weibo_wmmBERT (2/6)
 ```
 
 
