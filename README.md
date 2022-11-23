@@ -12,8 +12,6 @@
     │   ├── train                         # Weibo dataset for training
     ├── weibo_wmmBERT.ipynb               # Finetuning process to build weibo_wmmBERT, within 6 classes and wmmBERT pretrain model
     ├── weibo_wmmBERT_testing_6.ipynb     # Evaluate classification accuracy of ICI dataset by weibo_wmmBERT within 6 classes
-    ├── weibo_wmmBERT_2.ipynb             # TODO: Finetuning process to build weibo_wmmBERT, within 2 classes and wmmBERT pretrain model
-    ├── weibo_wmmBERT_testing_2.ipynb     # TODO: Evaluate classification accuracy of ICI dataset by weibo_wmmBERT within 2 classes
 ```
 
 
@@ -29,3 +27,8 @@ To improve the classification accuracy on ICI election dataset, we have a meetin
 |  Happy | Positive |
 |  Suprise | Ignore |
 |  Neutral | Ignore |
+
+## Model Repositories
+
+2-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
+6-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
