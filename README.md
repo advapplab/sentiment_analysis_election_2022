@@ -8,8 +8,8 @@ The code automatically selects the labels it needs (positive/negative) and ignor
 
 The code is currently set to import df_sample.xlsx, but feel free to change it to the excel sheet with the new data once you have it. In order
 to do this you will have to: 
-    1. upload a new excel file under data/challange.
-    2. change the link in the code in cell 4 and cell 7. 
+1. upload a new excel file under data/challange.
+2. change the link in the code in cell 4 and cell 7. 
     
 The easiest way to run the code directly is to install the chrome extension 'open in colab'. This allows you to open any code on Github directly into
 your colab. 
