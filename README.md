@@ -2,8 +2,8 @@
 
 ## Instructions
 
-If you want to run data where the labels are stored in the column 'sentiment', please run weibo_wmmBERT_testing_6.ipynb.
-If you want to run data where the labels are stored in the column 'cya_check_3', please run  weibo_wmmBERT_testing_Cya_check_3.ipynb.
+If you want to run data where the labels are stored in the column 'sentiment', please run weibo_wmmBERT_testing_6.ipynb.<br>
+If you want to run data where the labels are stored in the column 'cya_check_3', please run  weibo_wmmBERT_testing_Cya_check_3.ipynb.<br>
 The code automatically selects the labels it needs (positive/negative) and ignores the rest.
 
 The code is currently set to import df_sample.xlsx, but feel free to change it to the excel sheet with the new data once you have it. In order
