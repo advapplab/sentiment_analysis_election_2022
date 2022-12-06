@@ -2,6 +2,9 @@
 
 ## Instructions
 
+update 6/12: We now also have a version that can directly predict the sentiment for unlabelled data. See: predict_unlabelled_data.ipynb 
+
+
 If you want to run data where the labels are stored in the column 'sentiment', please run weibo_wmmBERT_testing_6.ipynb.<br>
 If you want to run data where the labels are stored in the column 'cya_check_3', please run  weibo_wmmBERT_testing_Cya_check_3.ipynb.<br>
 The code automatically selects the labels it needs (positive/negative) and ignores the rest.
