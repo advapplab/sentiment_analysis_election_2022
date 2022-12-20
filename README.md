@@ -2,6 +2,8 @@
 
 ## Instructions
 
+update 20/12: We now have a 2 label model with significantly improved accuracy: https://huggingface.co/Jiabo/Roberta_Chinese_sentiment.
+
 update 8/12: We now also have a version that predicts the sentiment surrounding 柯文哲，太英文，and 蔣萬安 before and after their elections: https://github.com/advapplab/sentiment_analysis_election_2022/blob/main/Chiang_Ko_Tsai_unlabelled_data.ipynb 
 
 update 6/12: We now also have a version that can directly predict the sentiment for unlabelled data. See: predict_unlabelled_data.ipynb 
@@ -51,6 +53,11 @@ We have aggragated some classes in the Weibo dataset into 'Positive' and 'Negati
 
 ## Model Repositories
 
-2-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
+
+2-Classes: https://huggingface.co/Jiabo/Roberta_Chinese_sentiment              
 
 6-Classes: https://huggingface.co/owen198/weibo-wmmbert-2
+
+# Older models 
+
+2-classess: https://huggingface.co/owen198/weibo-wmmbert-2
