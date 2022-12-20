@@ -1,6 +1,6 @@
 # sentiment_analysis_election_2022
 
-## Instructions
+#updates
 
 update 20/12: We now have a 2 label model with significantly improved accuracy: https://huggingface.co/Jiabo/Roberta_Chinese_sentiment.
 
@@ -8,6 +8,11 @@ update 8/12: We now also have a version that predicts the sentiment surrounding 
 
 update 6/12: We now also have a version that can directly predict the sentiment for unlabelled data. See: predict_unlabelled_data.ipynb 
 
+
+
+## Instructions
+
+To start a sentiment analysis on unlabeled data, see: predict_unlabelled_data.ipynb. 
 
 If you want to run data where the labels are stored in the column 'sentiment', please run weibo_wmmBERT_testing_6.ipynb.<br>
 If you want to run data where the labels are stored in the column 'cya_check_3', please run  weibo_wmmBERT_testing_Cya_check_3.ipynb.<br>
