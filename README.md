@@ -1,6 +1,6 @@
 # sentiment_analysis_election_2022
 
-#updates
+# updates
 
 update 20/12: We now have a 2 label model with significantly improved accuracy: https://huggingface.co/Jiabo/Roberta_Chinese_sentiment.
 
